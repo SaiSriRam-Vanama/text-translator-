@@ -39,6 +39,7 @@ Textransalotor/
 Flask==2.0.3
 googletrans==4.0.0-rc1
 ⚠️ Disclaimer
+This Project is under MIT License
 This project is strictly private and proprietary.
 No part of this codebase, logic, or design may be copied, modified, or redistributed without explicit permission from the creator.
 
