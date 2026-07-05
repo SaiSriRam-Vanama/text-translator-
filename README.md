@@ -42,5 +42,5 @@ googletrans==4.0.0-rc1
 This project is strictly private and proprietary.
 No part of this codebase, logic, or design may be copied, modified, or redistributed without explicit permission from the creator.
 
-© All rights reserved.
+© 2026 All rights reserved.
 
