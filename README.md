@@ -15,7 +15,7 @@ A fully functional Flask-based multilingual text translation app that converts u
 ## 🚀 Getting Started
 
 1. Clone the repository (Private use only)
-git clone <your-private-repo-url>
+git clone <SaiSriRam-Vanama/text-translator->
 cd Textransalotor
 2. Install required packages
 pip install -r requirements.txt
